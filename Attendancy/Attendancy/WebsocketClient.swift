@@ -22,7 +22,7 @@ class WebSocketClient {
     private var timer: Timer?
     
     // Real WebSocket API endpoint
-    private let webSocketBaseURL = "wss://t46mhsquzl.execute-api.us-west-2.amazonaws.com/production"
+    private let webSocketBaseURL = "wss://YOUURUUUSURUSURSUSRUSRURSUSRU.execute-api.us-west-2.amazonaws.com/production"
     
     private init() {
         session = URLSession(configuration: .default)
